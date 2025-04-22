@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard] # ASGI server for FastAPI
+pydantic
+streamlit
+requests # For frontend to call backend
+langchain
+langchain-openai # Or langchain-anthropic, langchain-groq, langchain-google-genai
+python-dotenv # To load .env file
+tree-sitter
+langchain-groq 
+langchain-google-genai
